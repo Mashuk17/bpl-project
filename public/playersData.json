@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 98,
+    "price": 1200,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "img": "https://i.ibb.co.com/TDPjXX8s/player3.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 95,
+    "price": 1100,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "img": "https://i.ibb.co.com/35P9KLR3/player2.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "rating": 93,
+    "price": 1000,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "img": "https://example.com/images/joe_root.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "rating": 92,
+    "price": 980,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "img": "https://example.com/images/kane_williamson.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "rating": 90,
+    "price": 1050,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "img": "https://example.com/images/ben_stokes.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 91,
+    "price": 1020,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "img": "https://example.com/images/shakib_al_hasan.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "rating": 94,
+    "price": 950,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "img": "https://example.com/images/jasprit_bumrah.jpg"
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "type": "Bowler",
+    "rating": 92,
+    "price": 930,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "img": "https://example.com/images/mitchell_starc.jpg"
+  }
+]
