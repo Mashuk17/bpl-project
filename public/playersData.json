@@ -4,70 +4,70 @@
     "country": "India",
     "type": "Batsman",
     "rating": 98,
-    "price": 1200,
+    "price": 12000,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium",
-    "img": "https://i.ibb.co.com/TDPjXX8s/player3.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Babar Azam",
     "country": "Pakistan",
     "type": "Batsman",
     "rating": 95,
-    "price": 1100,
+    "price": 11000,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "img": "https://i.ibb.co.com/35P9KLR3/player2.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Joe Root",
     "country": "England",
     "type": "Batsman",
     "rating": 93,
-    "price": 1000,
+    "price": 10000,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "img": "https://example.com/images/joe_root.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Kane Williamson",
     "country": "New Zealand",
     "type": "Batsman",
     "rating": 92,
-    "price": 980,
+    "price": 9800,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "img": "https://example.com/images/kane_williamson.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Ben Stokes",
     "country": "England",
     "type": "All-rounder",
     "rating": 90,
-    "price": 1050,
+    "price": 10500,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
-    "img": "https://example.com/images/ben_stokes.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "type": "All-rounder",
     "rating": 91,
-    "price": 1020,
+    "price": 10200,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm orthodox",
-    "img": "https://example.com/images/shakib_al_hasan.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Jasprit Bumrah",
     "country": "India",
     "type": "Bowler",
     "rating": 94,
-    "price": 950,
+    "price": 9500,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "img": "https://example.com/images/jasprit_bumrah.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   },
   {
     "name": "Mitchell Starc",
@@ -77,6 +77,6 @@
     "price": 930,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
-    "img": "https://example.com/images/mitchell_starc.jpg"
+    "img": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
   }
 ]
